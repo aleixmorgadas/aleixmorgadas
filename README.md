@@ -1,17 +1,1 @@
-Hi. I'm Aleix. I'm a Software Engineer with a strong focus on the Business side. I value more the good practices and methodologies over specific technologies.
-
-I like to share what I learn about:
-
-- DevOps
-- Infrastructure as Code
-- Blockchain
-- Software Architecture
-- and more :yum:
-
-You can find more at my [dev.to profile](http://dev.to/aleixmorgadas)
-
-What will you find here?
-
-- Code examples
-- Katas
-- Small Libraries I create
+![Metrics](https://metrics.lecoq.io/aleixmorgadas?template=classic&languages=1&lines=1&achievements=1&notable=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FMadrid)
